@@ -5,7 +5,8 @@ import math as m
 from math import sin, cos
 from os import path as pth
 import random as n
-
+ #Agrego un comentario no más 
+ 
 import requests
 
 def wget(url):
