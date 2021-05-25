@@ -14,3 +14,4 @@ google = googlefile.to_dict("list")
 amazon = amazonfile.to_dict("list")
 
 print (google2["Date"].count())
+#con esto contada cuantos dates tenía
